@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configurations>
+	<configuration id="1">
+		<DocumentPath>D:\EInvoicing</DocumentPath>
+		<TokenPin>123654789</TokenPin>
+		<TokenCertificate>MCDR 2019</TokenCertificate>
+	</configuration>
+</configurations>
